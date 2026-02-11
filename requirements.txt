@@ -25,7 +25,7 @@ datashader==0.11.0
 datashape==0.5.4
 decorator==4.4.2
 defusedxml==0.6.0
-distributed==2021.10.0
+distributed==2026.1.0
 docutils==0.15.2
 entrypoints==0.3
 enum-compat==0.0.3

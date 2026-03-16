@@ -90,7 +90,7 @@ pycparser==2.20
 pyct==0.4.6
 pydeck==0.4.0b2
 Pygments==2.15.0
-pyOpenSSL==19.1.0
+pyOpenSSL==26.0.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
 PySocks==1.7.1

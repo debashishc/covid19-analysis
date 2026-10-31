@@ -10,7 +10,7 @@ bokeh==3.8.2
 boto3==1.14.2
 botocore==1.17.2
 cachetools==4.1.0
-certifi==2024.7.4
+certifi==2026.10.18
 cffi==1.14.0
 cftime==1.1.2
 chardet==3.0.4
